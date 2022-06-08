@@ -94,6 +94,10 @@ a {
     max-width: 700px;
 }
 
+.banner2-links:hover{
+    opacity: 50%;
+}
+
 .banner3-all-elements1,
 .banner3-all-elements2,
 .banner3-all-elements3 {
